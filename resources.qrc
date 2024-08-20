@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/house_finder2" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
